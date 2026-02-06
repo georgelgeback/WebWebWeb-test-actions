@@ -18,7 +18,7 @@ fastapi==0.115.0
 fastapi-users-db-sqlalchemy-pelicanq==6.0.6
 fastapi-users-pelicanq==13.0.4
 google-api-core==2.25.1
-google-api-python-client==2.177.0
+google-api-python-client==2.189.0
 google-auth==2.40.3
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.2
